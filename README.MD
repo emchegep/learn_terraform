@@ -11,5 +11,5 @@ The cluster is made up of the following resources:
 - Security Groups
 - EC2 Instances
 
-# Elastic Load Balancer and Auto Scaling Group Architecture
+## Elastic Load Balancer and Auto Scaling Group Architecture
 ![alt elb and asg](assets/images/elb-asg.jpg)
