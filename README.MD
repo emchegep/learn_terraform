@@ -12,4 +12,4 @@ The cluster is made up of the following resources:
 - EC2 Instances
 
 # Elastic Load Balancer and Auto Scaling Group Architecture
-![alt elb and asg](assets/elb-asg.jpg)
+![alt elb and asg](assets/images/elb-asg.jpg)
